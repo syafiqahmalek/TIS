@@ -6,3 +6,5 @@ I learn how hardware compartment works and their function. Usually I only learn 
 
 **Reflection:**
 During the PC assembly session, I learned a lot about how each hardware component fits into the overall structure of a computer. At first, I was a bit nervous about handling the parts, since it's my first experience. Turns out, it's really fun and exciting. The most challenging part I faced was figuring out how to correctly install the RAM, but my instructor told us to that the clips on the sides needed to snap into place until 'click' sound is heard. In conclusion, this hands-on experience helped me connect the theory from class with practical skills, and I’m eager to continue improving my ability and learn more.
+
+![photo_2024-11-08_22-02-30](https://github.com/user-attachments/assets/f77f3a15-76db-4214-ae2d-cda6c7f656fa)
